@@ -1,0 +1,20 @@
+﻿UI
+
+
+winexe
+C#
+.cs
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\
+UI
+none
+false
+DEBUG;TRACE
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\App.xaml
+20330149325
+
+30698134475
+171628648309
+Menu Switch\AddBranch.xaml;Menu Switch\AddDish.xaml;Menu Switch\ClientWindow.xaml;Menu Switch\DeleteBranch.xaml;Menu Switch\DeleteDish.xaml;Menu Switch\DeleteOrderWindow.xaml;Menu Switch\Financial.xaml;Menu Switch\InternalManagment.xaml;Menu Switch\MainOrder.xaml;Menu Switch\MainWindow.xaml;Menu Switch\MenuOrderWindow.xaml;Menu Switch\NewOrderWindow.xaml;Menu Switch\Operation.xaml;Menu Switch\UpdateBranch.xaml;Menu Switch\UpdateClient.xaml;Menu Switch\UpdateDish.xaml;Menu Switch\UpdateMenuOrderWindow.xaml;NumericQuantity.xaml;PageSwitcher.xaml;Res\Myressource.xaml;
+
+True
+

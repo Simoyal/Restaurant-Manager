@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<client>
+  <Client>
+    <age>20</age>
+    <CreditCardNumber>12345670</CreditCardNumber>
+    <ClientID>1</ClientID>
+    <Address>rehov aleph</Address>
+    <AddressForDelivery>rehov aleph</AddressForDelivery>
+    <ClientName>Simon</ClientName>
+    <NumberTelephone>2345670</NumberTelephone>
+  </Client>
+  <Client>
+    <age>20</age>
+    <CreditCardNumber>12345670</CreditCardNumber>
+    <ClientID>2</ClientID>
+    <Address>rehov aleph</Address>
+    <AddressForDelivery>rehov aleph</AddressForDelivery>
+    <ClientName>sIMON</ClientName>
+    <NumberTelephone>2345670</NumberTelephone>
+  </Client>
+  <Client>
+    <age>20</age>
+    <CreditCardNumber>12345670</CreditCardNumber>
+    <ClientID>3</ClientID>
+    <Address>rehov avaad</Address>
+    <AddressForDelivery>rehov avaad</AddressForDelivery>
+    <ClientName>Simon</ClientName>
+    <NumberTelephone>123456780</NumberTelephone>
+  </Client>
+  <Client>
+    <age>25</age>
+    <CreditCardNumber>23456780</CreditCardNumber>
+    <ClientID>4</ClientID>
+    <Address>rehov aleph</Address>
+    <AddressForDelivery>rehov aleph</AddressForDelivery>
+    <ClientName>David</ClientName>
+    <NumberTelephone>23456780</NumberTelephone>
+  </Client>
+  <Client>
+    <age>60</age>
+    <CreditCardNumber>34545670</CreditCardNumber>
+    <ClientID>5</ClientID>
+    <Address>rehov c</Address>
+    <AddressForDelivery>rehov c</AddressForDelivery>
+    <ClientName>Samuel</ClientName>
+    <NumberTelephone>234345560</NumberTelephone>
+  </Client>
+  <Client>
+    <age>50</age>
+    <CreditCardNumber>1234560</CreditCardNumber>
+    <ClientID>6</ClientID>
+    <Address>rehov d</Address>
+    <AddressForDelivery>rehov d</AddressForDelivery>
+    <ClientName>Sam</ClientName>
+    <NumberTelephone>12323450</NumberTelephone>
+  </Client>
+  <Client>
+    <age>20</age>
+    <CreditCardNumber>12345670</CreditCardNumber>
+    <ClientID>7</ClientID>
+    <Address>rehov a</Address>
+    <AddressForDelivery>rehov </AddressForDelivery>
+    <ClientName>Yoni</ClientName>
+    <NumberTelephone>2345670</NumberTelephone>
+  </Client>
+  <Client>
+    <age>50</age>
+    <CreditCardNumber>12345670</CreditCardNumber>
+    <ClientID>8</ClientID>
+    <Address>izviubz</Address>
+    <AddressForDelivery>ibvzivzpieub</AddressForDelivery>
+    <ClientName>Yoni</ClientName>
+    <NumberTelephone>1234550</NumberTelephone>
+  </Client>
+  <Client>
+    <age>40</age>
+    <CreditCardNumber>12345670</CreditCardNumber>
+    <ClientID>9</ClientID>
+    <Address>rue des porcs</Address>
+    <AddressForDelivery>rue des porcs</AddressForDelivery>
+    <ClientName>Yoni</ClientName>
+    <NumberTelephone>12345670</NumberTelephone>
+  </Client>
+  <Client>
+    <age>20</age>
+    <CreditCardNumber>12345670</CreditCardNumber>
+    <ClientID>10</ClientID>
+    <Address>azertyu</Address>
+    <AddressForDelivery>azertyui</AddressForDelivery>
+    <ClientName>Simon</ClientName>
+    <NumberTelephone>123456780</NumberTelephone>
+  </Client>
+  <Client>
+    <age>20</age>
+    <CreditCardNumber>12345670</CreditCardNumber>
+    <ClientID>11</ClientID>
+    <Address>jkbvls</Address>
+    <AddressForDelivery>jnsjdvbsk</AddressForDelivery>
+    <ClientName>David</ClientName>
+    <NumberTelephone>234560</NumberTelephone>
+  </Client>
+  <Client>
+    <age>50</age>
+    <CreditCardNumber>12345670</CreditCardNumber>
+    <ClientID>12</ClientID>
+    <Address>rue</Address>
+    <AddressForDelivery>rue</AddressForDelivery>
+    <ClientName>Simon</ClientName>
+    <NumberTelephone>23456760</NumberTelephone>
+  </Client>
+  <Client>
+    <age>40</age>
+    <CreditCardNumber>12367770</CreditCardNumber>
+    <ClientID>13</ClientID>
+    <Address>rehov avaad aleumi</Address>
+    <AddressForDelivery>rehov avaad haleumi</AddressForDelivery>
+    <ClientName>Oshri</ClientName>
+    <NumberTelephone>123456780</NumberTelephone>
+  </Client>
+</client>

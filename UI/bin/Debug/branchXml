@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<branch>
+  <Branch>
+    <BranchNumberTelephone>26503546</BranchNumberTelephone>
+    <BranchNumber>1</BranchNumber>
+    <NumberOfWorker>20</NumberOfWorker>
+    <NumberDeliveryManAvailabe>20</NumberDeliveryManAvailabe>
+    <BranchName>Tel-Aviv</BranchName>
+    <BranchAddress>rehiv azrieli</BranchAddress>
+    <NameIncharge>Samuel</NameIncharge>
+    <CashroutLevel>Hight</CashroutLevel>
+  </Branch>
+  <Branch>
+    <BranchNumberTelephone>123456780</BranchNumberTelephone>
+    <BranchNumber>2</BranchNumber>
+    <NumberOfWorker>30</NumberOfWorker>
+    <NumberDeliveryManAvailabe>23</NumberDeliveryManAvailabe>
+    <BranchName>Ashdod</BranchName>
+    <BranchAddress>rue des voleurs</BranchAddress>
+    <NameIncharge>Simon</NameIncharge>
+    <CashroutLevel>Medium</CashroutLevel>
+  </Branch>
+  <Branch>
+    <BranchNumberTelephone>1234567890</BranchNumberTelephone>
+    <BranchNumber>3</BranchNumber>
+    <NumberOfWorker>20</NumberOfWorker>
+    <NumberDeliveryManAvailabe>20</NumberDeliveryManAvailabe>
+    <BranchName>Netanya</BranchName>
+    <BranchAddress>rehov beth</BranchAddress>
+    <NameIncharge>David</NameIncharge>
+    <CashroutLevel>Low</CashroutLevel>
+  </Branch>
+  <Branch>
+    <BranchNumberTelephone>234567890</BranchNumberTelephone>
+    <BranchNumber>4</BranchNumber>
+    <NumberOfWorker>30</NumberOfWorker>
+    <NumberDeliveryManAvailabe>3</NumberDeliveryManAvailabe>
+    <BranchName>Temp</BranchName>
+    <BranchAddress>rehov h</BranchAddress>
+    <NameIncharge>Simon</NameIncharge>
+    <CashroutLevel>Low</CashroutLevel>
+  </Branch>
+  <Branch>
+    <BranchNumberTelephone>1234522780</BranchNumberTelephone>
+    <BranchNumber>5</BranchNumber>
+    <NumberOfWorker>20</NumberOfWorker>
+    <NumberDeliveryManAvailabe>20</NumberDeliveryManAvailabe>
+    <BranchName>Jerusalem</BranchName>
+    <BranchAddress>rehov aleph</BranchAddress>
+    <NameIncharge>Simon</NameIncharge>
+    <CashroutLevel>Hight</CashroutLevel>
+  </Branch>
+</branch>

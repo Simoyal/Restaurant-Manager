@@ -1,0 +1,61 @@
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\bin\Debug\UI.exe.config
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\bin\Debug\UI.exe
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\bin\Debug\UI.pdb
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\bin\Debug\BE.dll
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\bin\Debug\BL.dll
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\bin\Debug\DAL.dll
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\bin\Debug\DS.dll
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\bin\Debug\BE.pdb
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\bin\Debug\BL.pdb
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\bin\Debug\DAL.pdb
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\bin\Debug\DS.pdb
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\App.g.cs
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\UI.g.resources
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\UI.exe
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\UI.pdb
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\MainOrder.g.cs
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\MainOrder.baml
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\PageSwitcher.g.cs
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\PageSwitcher.baml
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\MainWindow.g.cs
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\MainWindow.baml
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\NewOrderWindow.g.cs
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\NewOrderWindow.baml
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\DeleteOrderWindow.g.cs
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\DeleteOrderWindow.baml
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\MenuOrderWindow.g.cs
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\MenuOrderWindow.baml
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\UpdateMenuOrderWindow.g.cs
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\UpdateMenuOrderWindow.baml
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\ClientWindow.g.cs
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\ClientWindow.baml
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\InternalManagment.g.cs
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\Operation.g.cs
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\InternalManagment.baml
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\Operation.baml
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\AddDish.g.cs
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\AddDish.baml
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Res\Myressource.baml
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\App.baml
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\AddBranch.g.cs
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\AddBranch.baml
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\UpdateBranch.g.cs
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\UpdateBranch.baml
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\Financial.g.cs
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\Financial.baml
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\DeleteBranch.g.cs
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\DeleteBranch.baml
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\UpdateDish.g.cs
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\UpdateDish.baml
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\DeleteDish.g.cs
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\DeleteDish.baml
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\UpdateClient.g.cs
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\Menu Switch\UpdateClient.baml
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\NumericQuantity.g.cs
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\UI\obj\Debug\NumericQuantity.baml

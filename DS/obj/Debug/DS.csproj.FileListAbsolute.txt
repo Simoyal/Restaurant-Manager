@@ -1,0 +1,7 @@
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\DS\bin\Debug\DS.dll
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\DS\bin\Debug\DS.pdb
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\DS\bin\Debug\BE.dll
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\DS\bin\Debug\BE.pdb
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\DS\obj\Debug\DS.dll
+C:\Users\Simon\Documents\Visual Studio 2015\Projects\dotNet5776_Project01_7707_0394\DS\obj\Debug\DS.pdb
